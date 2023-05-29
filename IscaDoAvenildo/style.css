@@ -1,0 +1,98 @@
+html{
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+}
+header{
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.cleber{
+    border-bottom: 4px solid #7b1d53;
+}
+.verde{
+    color: #45a82a;
+}
+
+.fonteColor{
+    color: #e9e9e9;
+}
+.bgheader{
+    background: #253342;
+}
+
+.fontmain{
+    color:#e9e9e9;
+}
+.btncolor{
+    border-color: white;
+    color: white;
+    text-decoration: none;
+}
+.btncolor:hover{
+    color: white;
+    text-decoration: none;
+}
+.fonteproduto{
+    color: #4a4521;
+}
+.fontlogin{
+    color: #dc6cac;
+}
+.fontlogin a{
+    color:#d397b9;
+}
+.fundo{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.humbertu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.Aveniuldo{
+    margin: 0 20px;
+}
+
+.BigAveniuldo{
+    margin: 0 60px;
+}
+
+.aparecida{
+    margin-bottom: 140px;
+}
+
+.ediegones{
+    margin-bottom: 45px;
+}
+
+.Josue{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.spaceLogin{
+    margin: 10px 10px;
+}
+.login{
+    width: 365px;
+    height: 278px;
+}
+
+.register{
+    width: 365px;
+    height: 278px;
+}
+
+.menufont{
+    text-decoration: none;
+    color: #111111;
+}

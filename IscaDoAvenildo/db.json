@@ -1,0 +1,39 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Isca silicone siri",
+            "quantidade": 1,
+            "descricao": "Isca artificial para pegar peixes de água doce",
+            "marca": "Ifish"
+        },
+        {
+          "id" : 2,
+          "nome": "Kit Iscas",
+          "quantidade": 1,
+          "descricao": "Kit de Iscas para tilapia de superfície",
+          "marca": "HidroSports"
+        },
+        {
+          "id" : 3,
+          "nome": "Vara de Pesca profissional",
+          "quantidade": 1,
+          "descricao": "Kit de pesca com tudo necessário",
+          "marca": "pescaX"
+        },
+        {
+          "id" : 4,
+          "nome": "Vara de Pesca iniciante",
+          "quantidade": 1,
+          "descricao": "Uma simples vara para iniciantes na pescaria",
+          "marca": "FishFishing"
+        },
+        {
+          "id" : 5,
+          "nome": "Anzois de pesca",
+          "quantidade": 100,
+          "descricao": "Uma caixa com anzois de aço para pesca",
+          "marca": "WeFishing"
+        }
+    ]
+}
