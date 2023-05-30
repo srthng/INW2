@@ -62,7 +62,8 @@ do{
                     console.log("movimentos feitos : " +movimento)
                     console.log("")
                     console.log("Quantidade no estoque : " +p1.estoque)
-                    console.log("Preço :" + p1.preco)
+                    console.log("")
+                    console.log("Produto : " +p1)
                     op = leia("Digite o produto que você quer cadastrar(V) - Digite se você quer fazer uma retirada de produto do estoque (R) - Digite se você quer fazer incluir uma quantidade no estoque (I): ")
                     if(op == "v"){
                         opId = leia("Digite o id da vara : ")
